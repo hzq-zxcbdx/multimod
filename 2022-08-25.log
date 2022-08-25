@@ -1,0 +1,24 @@
+2022-08-25 11:17:34,663 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.3 -2768
+2022-08-25 11:17:34,664 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2768
+2022-08-25 11:17:34,664 - multi.py - line:196 - INFO - 模块目前状态为：3 -2768
+2022-08-25 11:17:34,673 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -2768
+2022-08-25 11:17:34,674 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -2768
+2022-08-25 11:17:34,676 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -2768
+2022-08-25 11:17:34,676 - multi.py - line:201 - INFO - 启动完成 -2768
+2022-08-25 11:17:36,696 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -2768
+2022-08-25 11:17:36,697 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -2768
+2022-08-25 11:17:37,199 - multi.py - line:121 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1650\\r\\n\\r\\nOK\\r\\n'"] -2768
+2022-08-25 11:17:37,700 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2768
+2022-08-25 11:17:38,251 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2768
+2022-08-25 11:30:10,692 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.3 -3440
+2022-08-25 11:30:10,693 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3440
+2022-08-25 11:30:10,694 - multi.py - line:196 - INFO - 模块目前状态为：3 -3440
+2022-08-25 11:30:10,706 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -3440
+2022-08-25 11:30:10,706 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -3440
+2022-08-25 11:30:10,709 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -3440
+2022-08-25 11:30:10,709 - multi.py - line:201 - INFO - 启动完成 -3440
+2022-08-25 11:30:12,729 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -3440
+2022-08-25 11:30:12,730 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -3440
+2022-08-25 11:30:13,231 - multi.py - line:121 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1650\\r\\n\\r\\nOK\\r\\n'"] -3440
+2022-08-25 11:30:13,732 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 27,99\r\n\r\nOK\r\n' -3440
+2022-08-25 11:30:14,288 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3440

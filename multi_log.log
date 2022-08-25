@@ -1,0 +1,6 @@
+2022-08-25 10:48:17,135 - multi.py - line:102 - INFO - usb0的ip地址为192.168.42.2 -2046
+2022-08-25 10:48:17,136 - multi.py - line:102 - INFO - wlan0的ip地址为192.168.0.105 -2046
+2022-08-25 10:48:17,145 - multi.py - line:64 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -2046
+2022-08-25 10:48:17,146 - multi.py - line:67 - INFO - 连接质量：1.0    信号强度：-39 -2046
+2022-08-25 10:48:17,148 - multi.py - line:44 - INFO - /dev/ttyUSB2已打开 -2046
+2022-08-25 10:48:17,148 - multi.py - line:189 - INFO - 开始传输 -2046
