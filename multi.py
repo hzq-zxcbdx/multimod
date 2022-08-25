@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # encoding: utf-8
 # -*- coding: utf8 -*-
 
@@ -12,13 +12,6 @@ import subprocess
 from time import sleep
 from datetime import datetime
 from datetime import timedelta
-
-curr_time=datetime.now() 
-today=(curr_time.strftime("%Y-%m-%d"))
-print(today)
-
-
-
 state_starting = 0
 state_transmit_usb = 1
 state_transmit_wifi = 2
@@ -29,6 +22,12 @@ state_net_error = 5
 error_usb_net = 0
 error_com = 0
 error_wifi = 0
+
+curr_time=datetime.now() 
+today=(curr_time.strftime("%Y-%m-%d"))
+print(today)
+
+state = state_starting
 
 def log_init(filename):
     logger = logging.getLogger('test_logger')
@@ -77,7 +76,6 @@ def get_wlan_strength(interface,log):
 
 
 def get_usb_strength(com,log):
-    global error_usb_signal
     try:
         success_bytes = com.write('at+csq\r'.encode())
         # print(success_bytes)
@@ -90,7 +88,6 @@ def get_usb_strength(com,log):
         if(signal_data == 99):
             signal_is_ok = False
             signal_level = 0
-            error_usb_signal += 1
         else:
             signal_is_ok = True
             signal_level = signal_data*2 - 113
@@ -104,7 +101,11 @@ def get_ip(interface,log):
     try:
         ip =  netifaces.ifaddresses(interface)[netifaces.AF_INET][0]['addr']
         log.info(interface+'的ip地址为'+ip)
-        return ip
+        ip_is_right = '192.168' in ip
+        if(ip_is_right):
+            return ip
+        else:
+            return 0 
     except Exception:
         log.error('没有'+ interface)
         return 0
@@ -139,6 +140,9 @@ def usb_net_switch(com,log):
 
         com.write('at+cfun=1,1\r'.encode())
         log.info('网络已切换，正在重启')
+        print('串口是否关闭：'+ com.isOpen())
+        com.close()
+        sleep(2)
     except Exception:
         log.error('获取网络信息错误，检查串口是否冲突？')
         return 0,0
@@ -146,11 +150,11 @@ def usb_net_switch(com,log):
 
 def transmit_vedio(video_path,interface,destination,destination_ip,destination_path,usb_type,log):
     net_switch(interface)
-    sleep(0.5)
+    sleep(0.5) # 网络切换需要一定时间
     if(interface == 'wlan0'):
         print('now use:' + interface)
     else:
-        print('now use:' + usb_type)
+        print('now use:' + str(usb_type))
     ip = get_ip(interface,log)
     cmd = 'scp -o BindAddress='+ ip +' -o ConnectTimeout=3 -i /home/pi/xd '+ video_path +' '+ destination +'@'+ destination_ip +':'+ destination_path
     ret = subprocess.run(cmd,shell=True)
@@ -164,29 +168,10 @@ def transmit_vedio(video_path,interface,destination,destination_ip,destination_p
 def net_switch(interaface):
     os.system('sudo ifmetric ' + interaface)
 
-
-
-    
-    
-
-def error_handle(error,log):
-    a = 1
-
-# def 
-
-
-if __name__ == "__main__":
-    state = state_starting
-    test = 0
-    # 设置目的地信息
-    video_path = '/home/pi/test1.mp4'
-    destination = 'ubuntu'
-    destination_ip = '124.221.243.112'
-    destination_path = '/home/ubuntu'
-    interface_to_use = 'wlan0'
-    mul_log = log_init(filename=today + '.log')
-    usb_ip =  get_ip('usb0',mul_log)
-    wlan_ip =  get_ip('wlan0',mul_log)
+def state_switch(log):
+    global state
+    usb_ip =  get_ip('usb0',log)
+    wlan_ip =  get_ip('wlan0',log)
     if(wlan_ip == 0 and usb_ip == 0):
         state = state_net_error
     elif(wlan_ip == 0 ):
@@ -195,36 +180,104 @@ if __name__ == "__main__":
         state = state_transmit_wifi
     else:
         state = state_transmit_mul
+
+    
+    
+
+def error_handle(log):
+    print('test')
+
+# def 
+
+
+if __name__ == "__main__":
+    test = 0
+    # 设置接收端信息
+    video_path = '/home/pi/test1.mp4'
+    destination = 'ubuntu'
+    destination_ip = '124.221.243.112'
+    destination_path = '/home/ubuntu'
+    interface_to_use = 'wlan0'
+    mul_log = log_init(filename=today + '.log')
+    state_switch(mul_log)
     mul_log.info('模块目前状态为：' + str(state))
     wlan_quality,wlan_signal = get_wlan_strength('wlan0',mul_log)
     mul_ser,ser_isopen  = ser_open('/dev/ttyUSB2',mul_log)
     if(ser_isopen == False):
-        error_com = 1
+        mul_ser,ser_isopen  = ser_open('/dev/ttyUSB3',mul_log)
     mul_log.info('启动完成')
     
     while(1):
+        state_switch(mul_log)
+        if(state == state_transmit_mul):
+            mul_log.info('多模模式')
+            print('目前使用多模模式')
+            wlan_quality,wlan_signal = get_wlan_strength('wlan0',mul_log)
+            usb_type,usb_band = get_net_type(mul_ser,mul_log)
+            usb_signal,usb_signal_is_ok = get_usb_strength(mul_ser,mul_log)
+            print('wifi质量；',wlan_quality,' wifi信号强度为：',wlan_signal,'dbm')
+            print('移动网络信号强度为:',usb_signal,'dbm')
+            if(wlan_quality > 0.95):
+                interface_to_use = 'usb0'
+            else:
+                interface_to_use = 'wlan0'
+            
+            transmit_ok = transmit_vedio(video_path,interface_to_use,destination,destination_ip,destination_path,usb_type,mul_log)
+            if(transmit_ok == 1):
+                print('传输成功')
+            else:
+                print('传输失败')
+
+        elif(state == state_transmit_usb):
+            mul_log.info('usb传输模式')
+            print('目前仅能使用移动网络')
+            usb_type,usb_band = get_net_type(mul_ser,mul_log)
+            usb_signal,usb_signal_is_ok = get_usb_strength(mul_ser,mul_log)
+            print('移动网络信号强度为:',usb_signal,'dbm')
+            interface_to_use = 'usb0'
+            ip = get_ip(interface_to_use,mul_log)
+            cmd = 'scp -o BindAddress='+ ip +' -o ConnectTimeout=3 -i /home/pi/xd '+ video_path +' '+ destination +'@'+ destination_ip +':'+ destination_path
+            ret = subprocess.run(cmd,shell=True)
+            if(ret.returncode == 0):
+                print('传输成功')
+            else:
+                print('传输失败')
+            error_handle(mul_log)
+
+        elif(state == state_transmit_wifi):
+            mul_log.info('wifi传输模式')
+            print('目前仅能使用wifi网络')
+            wlan_quality,wlan_signal = get_wlan_strength('wlan0',mul_log)
+            print('wifi质量；',wlan_quality,' wifi信号强度为：',wlan_signal,'dbm')
+            interface_to_use = 'wlan0'
+            ip = get_ip(interface_to_use,mul_log)
+            cmd = 'scp -o BindAddress='+ ip +' -o ConnectTimeout=3 -i /home/pi/xd '+ video_path +' '+ destination +'@'+ destination_ip +':'+ destination_path
+            ret = subprocess.run(cmd,shell=True)
+            print(ret.returncode)
+            if(ret.returncode == 0):
+                print('传输成功')
+            else:
+                print('传输失败')
+            error_handle(mul_log)
+
+        elif(state == state_net_error):
+            error_handle(mul_log)
         
         test += 1
-        print(test)
-        sleep(2)
-        wlan_quality,wlan_signal = get_wlan_strength('wlan0',mul_log)
-        usb_type,usb_band = get_net_type(mul_ser,mul_log)
-        usb_signal,usb_signal_is_ok = get_usb_strength(mul_ser,mul_log)
-        print('wifi质量；',wlan_quality,' wifi信号强度为：',wlan_signal,'dbm')
-        print('移动网络信号强度为:',usb_signal,'dbm')
-        if(wlan_quality < 0.95):
-            interface_to_use = 'usb0'
-        else:
-            interface_to_use = 'wlan0'
-        
-        transmit_ok = transmit_vedio(video_path,interface_to_use,destination,destination_ip,destination_path,usb_type,mul_log)
-        if(transmit_ok == 1):
-            print('传输成功')
-        else:
-            print('传输失败')
 
+        
         if(test == 3):
+            print('************test******************')
             usb_net_switch(mul_ser,mul_log)
+            time_left = 60
+            while(time_left):
+                sleep(1)
+                time_left -= 1
+                print(time_left)
+
+            mul_ser,ser_isopen  = ser_open('/dev/ttyUSB2',mul_log)
+            if(ser_isopen == False):
+                mul_ser,ser_isopen  = ser_open('/dev/ttyUSB3',mul_log)
 
 
     # while(1):
