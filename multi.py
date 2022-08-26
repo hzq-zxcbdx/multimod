@@ -76,6 +76,7 @@ def get_wlan_strength(interface,log):
 
 
 def get_usb_strength(com,log):
+    global error_usb_net
     try:
         success_bytes = com.write('at+csq\r'.encode())
         # print(success_bytes)
@@ -86,6 +87,7 @@ def get_usb_strength(com,log):
         data = data[0]
         signal_data = int(data)
         if(signal_data == 99):
+            error_usb_net += 1
             signal_is_ok = False
             signal_level = 0
         else:
@@ -172,6 +174,7 @@ def state_switch(log):
     global state
     usb_ip =  get_ip('usb0',log)
     wlan_ip =  get_ip('wlan0',log)
+    print('switch',usb_ip,wlan_ip)
     if(wlan_ip == 0 and usb_ip == 0):
         state = state_net_error
     elif(wlan_ip == 0 ):
@@ -182,10 +185,27 @@ def state_switch(log):
         state = state_transmit_mul
 
     
-    
+# 错误处理函数，获取错误情况进行处理
 
 def error_handle(log):
-    print('test')
+    global error_usb_net
+    global error_com
+    global error_wifi
+    print('error_com:',error_com)
+    print('error_usb_net:',error_usb_net)
+    print('error_wifi:',error_wifi)
+
+    restart_time_left = 45
+    if(error_usb_net > 3):
+        log.error('移动网络无信号，正在切换')
+        usb_net_switch(mul_ser,mul_log)
+        while(restart_time_left):
+            sleep(1)
+            restart_time_left -= 1
+            print('重启进度：',int((45-restart_time_left)/45*100))
+        error_usb_net = 0
+        
+
 
 # def 
 
@@ -202,12 +222,23 @@ if __name__ == "__main__":
     state_switch(mul_log)
     mul_log.info('模块目前状态为：' + str(state))
     wlan_quality,wlan_signal = get_wlan_strength('wlan0',mul_log)
-    mul_ser,ser_isopen  = ser_open('/dev/ttyUSB2',mul_log)
-    if(ser_isopen == False):
-        mul_ser,ser_isopen  = ser_open('/dev/ttyUSB3',mul_log)
+    mul_ser,ser2_isopen  = ser_open('/dev/ttyUSB2',mul_log)
+    if(ser2_isopen == False):
+        mul_ser,ser3_isopen  = ser_open('/dev/ttyUSB3',mul_log)
     mul_log.info('启动完成')
     
     while(1):
+        mul_ser,ser2_isopen  = ser_open('/dev/ttyUSB2',mul_log)
+        if(ser2_isopen == False):
+            mul_ser,ser3_isopen  = ser_open('/dev/ttyUSB3',mul_log)
+        
+        if(ser2_isopen == True):
+            mul_log.info('当前使用ttyusb2')
+        
+        if(ser2_isopen == True):
+            mul_log.info('当前使用ttyusb3')
+        print(mul_ser.isOpen())
+
         state_switch(mul_log)
         if(state == state_transmit_mul):
             mul_log.info('多模模式')
@@ -227,6 +258,7 @@ if __name__ == "__main__":
                 print('传输成功')
             else:
                 print('传输失败')
+            error_handle(mul_log)
 
         elif(state == state_transmit_usb):
             mul_log.info('usb传输模式')
@@ -263,21 +295,21 @@ if __name__ == "__main__":
         elif(state == state_net_error):
             error_handle(mul_log)
         
-        test += 1
+        # test += 1
 
         
-        if(test == 3):
-            print('************test******************')
-            usb_net_switch(mul_ser,mul_log)
-            time_left = 60
-            while(time_left):
-                sleep(1)
-                time_left -= 1
-                print(time_left)
+        # if(test == 3):
+        #     print('************test******************')
+        #     usb_net_switch(mul_ser,mul_log)
+        #     time_left = 60
+        #     while(time_left):
+        #         sleep(1)
+        #         time_left -= 1
+        #         print(time_left)
 
-            mul_ser,ser_isopen  = ser_open('/dev/ttyUSB2',mul_log)
-            if(ser_isopen == False):
-                mul_ser,ser_isopen  = ser_open('/dev/ttyUSB3',mul_log)
+        #     mul_ser,ser_isopen  = ser_open('/dev/ttyUSB2',mul_log)
+        #     if(ser_isopen == False):
+        #         mul_ser,ser_isopen  = ser_open('/dev/ttyUSB3',mul_log)
 
 
     # while(1):

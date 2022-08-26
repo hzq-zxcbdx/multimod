@@ -1,0 +1,1390 @@
+2022-08-26 10:47:01,786 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:47:01,787 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:47:01,788 - multi.py - line:203 - INFO - 模块目前状态为：3 -1779
+2022-08-26 10:47:01,797 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -1779
+2022-08-26 10:47:01,797 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -1779
+2022-08-26 10:47:01,800 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -1779
+2022-08-26 10:47:01,800 - multi.py - line:208 - INFO - 启动完成 -1779
+2022-08-26 10:47:01,801 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:47:01,801 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:47:01,802 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:47:01,811 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -1779
+2022-08-26 10:47:01,811 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -1779
+2022-08-26 10:47:02,312 - multi.py - line:123 - INFO - ["b'\\r\\r\\n\\n\\r\\nRD", ',0\\r\\n\\r+CME ERROR: 4\\r\\nat+qnwinfo\\r\\n+QNWINFO: ', 'FDD LTE', ',46001,', 'LTE BAND 3', ",1650\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:47:02,813 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 27,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:47:03,403 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:47:16,046 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:47:16,049 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:47:16,050 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:47:16,050 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:47:16,068 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -1779
+2022-08-26 10:47:16,069 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -1779
+2022-08-26 10:47:16,571 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1650\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:47:17,072 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 27,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:47:17,625 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:47:26,886 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:47:26,889 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:47:26,890 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:47:26,890 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:47:26,907 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -1779
+2022-08-26 10:47:26,908 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -1779
+2022-08-26 10:47:27,409 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1650\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:47:27,911 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 27,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:47:28,469 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:47:40,386 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:47:40,888 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1650\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:47:40,889 - multi.py - line:142 - INFO - 网络已切换，正在重启 -1779
+2022-08-26 10:47:40,889 - multi.py - line:147 - ERROR - 获取网络信息错误，检查串口是否冲突？ -1779
+2022-08-26 10:48:40,959 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -1779
+2022-08-26 10:48:40,966 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -1779
+2022-08-26 10:48:40,967 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:48:40,969 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:48:40,969 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:48:40,987 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -1779
+2022-08-26 10:48:40,988 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -1779
+2022-08-26 10:48:40,989 - multi.py - line:125 - ERROR - 当前未成功获取网络状态 -1779
+2022-08-26 10:48:40,990 - multi.py - line:83 - INFO - b'STATUS: 1,1,"IPV4V6",0\r\n\r\n\r\n\r\n+QNETDEVSTATUS: 2,1,"IPV4V6",0\r\n\r+CME ERROR: 4\r\n+CME ERROR: 4\r\n+CME ER' -1779
+2022-08-26 10:48:41,542 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:48:46,114 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:48:46,117 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:48:46,118 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:48:46,118 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:48:46,135 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -1779
+2022-08-26 10:48:46,136 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -1779
+2022-08-26 10:48:46,137 - multi.py - line:123 - INFO - ["b'ROR: 4\\r\\n+CME ERROR: 4\\r\\n+CME ERROR: 4\\r\\n+CME ERROR: 4\\r\\nat+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",'"] -1779
+2022-08-26 10:48:46,150 - multi.py - line:83 - INFO - b'627264\r\n\r\nOK\r\nat+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\nat+qnwinfo\r\n+QNWINFO: "NR5G-SA",46001,"NR N78",627264\r\n\r\nOK' -1779
+2022-08-26 10:48:46,694 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:48:53,788 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:48:53,790 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:48:53,791 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:48:53,791 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:48:53,807 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -1779
+2022-08-26 10:48:53,808 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -1779
+2022-08-26 10:48:54,310 - multi.py - line:123 - INFO - ["b'\\r\\nat+csq\\r\\n+CSQ: 21,99\\r\\n\\r\\nOK\\r\\nat+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:48:54,811 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:48:55,367 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:01,299 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:49:01,301 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:01,302 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:49:01,302 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:49:01,320 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -1779
+2022-08-26 10:49:01,322 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -1779
+2022-08-26 10:49:01,823 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:49:02,324 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:49:02,875 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:08,189 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:49:08,191 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:08,192 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:49:08,193 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:49:08,208 - multi.py - line:67 - INFO -           Link Quality=68/70  Signal level=-42 dBm   -1779
+2022-08-26 10:49:08,210 - multi.py - line:70 - INFO - 连接质量：0.971    信号强度：-42 -1779
+2022-08-26 10:49:08,711 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:49:09,212 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:49:09,760 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:13,963 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:49:13,966 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:13,968 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:49:13,969 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:49:13,985 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -1779
+2022-08-26 10:49:13,987 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -1779
+2022-08-26 10:49:14,488 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:49:14,990 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:49:15,540 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:19,897 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:49:19,899 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:19,900 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:49:19,900 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:49:19,915 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -1779
+2022-08-26 10:49:19,916 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -1779
+2022-08-26 10:49:20,418 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:49:20,919 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:49:21,469 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:25,726 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:49:25,728 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:25,729 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:49:25,730 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:49:25,746 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -1779
+2022-08-26 10:49:25,747 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -1779
+2022-08-26 10:49:26,248 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:49:26,750 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:49:27,295 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:31,919 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:49:31,921 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:31,923 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:49:31,924 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:49:31,942 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -1779
+2022-08-26 10:49:31,944 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -1779
+2022-08-26 10:49:32,446 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:49:32,947 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:49:33,500 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:38,472 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:49:38,475 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:38,477 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:49:38,478 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:49:38,494 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -1779
+2022-08-26 10:49:38,496 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -1779
+2022-08-26 10:49:38,997 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:49:39,499 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:49:40,050 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:44,217 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:49:44,221 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:44,222 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:49:44,223 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:49:44,242 - multi.py - line:67 - INFO -           Link Quality=68/70  Signal level=-42 dBm   -1779
+2022-08-26 10:49:44,244 - multi.py - line:70 - INFO - 连接质量：0.971    信号强度：-42 -1779
+2022-08-26 10:49:44,746 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:49:45,247 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:49:45,798 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:50,299 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:49:50,301 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:50,303 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:49:50,304 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:49:50,320 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -1779
+2022-08-26 10:49:50,322 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -1779
+2022-08-26 10:49:50,823 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:49:51,325 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:49:51,879 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:56,304 - multi.py - line:165 - INFO - /home/pi/test1.mp4传输成功 -1779
+2022-08-26 10:49:56,305 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 10:49:56,306 - multi.py - line:103 - INFO - wlan0的ip地址为192.168.0.105 -1779
+2022-08-26 10:49:56,307 - multi.py - line:213 - INFO - 多模模式 -1779
+2022-08-26 10:49:56,321 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -1779
+2022-08-26 10:49:56,322 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -1779
+2022-08-26 10:49:56,823 - multi.py - line:123 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -1779
+2022-08-26 10:49:57,324 - multi.py - line:83 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -1779
+2022-08-26 10:49:57,875 - multi.py - line:103 - INFO - usb0的ip地址为192.168.42.2 -1779
+2022-08-26 11:18:16,819 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:18:16,820 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2665
+2022-08-26 11:18:16,820 - multi.py - line:222 - INFO - 模块目前状态为：3 -2665
+2022-08-26 11:18:16,829 - multi.py - line:67 - INFO -           Link Quality=67/70  Signal level=-43 dBm   -2665
+2022-08-26 11:18:16,830 - multi.py - line:70 - INFO - 连接质量：0.957    信号强度：-43 -2665
+2022-08-26 11:18:16,831 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -2665
+2022-08-26 11:18:16,832 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -2665
+2022-08-26 11:18:16,832 - multi.py - line:227 - INFO - 启动完成 -2665
+2022-08-26 11:18:16,833 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:18:16,833 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2665
+2022-08-26 11:18:16,833 - multi.py - line:237 - INFO - 多模模式 -2665
+2022-08-26 11:18:16,842 - multi.py - line:67 - INFO -           Link Quality=68/70  Signal level=-42 dBm   -2665
+2022-08-26 11:18:16,843 - multi.py - line:70 - INFO - 连接质量：0.971    信号强度：-42 -2665
+2022-08-26 11:18:17,344 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 0', ",0\\r\\n\\r\\nOK\\r\\n'"] -2665
+2022-08-26 11:18:17,845 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2665
+2022-08-26 11:18:18,397 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:18:22,980 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -2665
+2022-08-26 11:18:22,983 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:18:22,984 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2665
+2022-08-26 11:18:22,984 - multi.py - line:237 - INFO - 多模模式 -2665
+2022-08-26 11:18:23,002 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -2665
+2022-08-26 11:18:23,003 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -2665
+2022-08-26 11:18:23,505 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2665
+2022-08-26 11:18:24,006 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2665
+2022-08-26 11:18:24,539 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:18:30,226 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -2665
+2022-08-26 11:18:30,229 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:18:30,230 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2665
+2022-08-26 11:18:30,232 - multi.py - line:237 - INFO - 多模模式 -2665
+2022-08-26 11:18:30,250 - multi.py - line:67 - INFO -           Link Quality=68/70  Signal level=-42 dBm   -2665
+2022-08-26 11:18:30,252 - multi.py - line:70 - INFO - 连接质量：0.971    信号强度：-42 -2665
+2022-08-26 11:18:30,754 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2665
+2022-08-26 11:18:31,256 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2665
+2022-08-26 11:18:31,809 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:18:38,968 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -2665
+2022-08-26 11:18:38,971 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:18:38,972 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2665
+2022-08-26 11:18:38,973 - multi.py - line:237 - INFO - 多模模式 -2665
+2022-08-26 11:18:38,991 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -2665
+2022-08-26 11:18:38,992 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -2665
+2022-08-26 11:18:39,494 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2665
+2022-08-26 11:18:39,996 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2665
+2022-08-26 11:18:40,546 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:18:46,992 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -2665
+2022-08-26 11:18:46,995 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:18:46,996 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2665
+2022-08-26 11:18:46,997 - multi.py - line:237 - INFO - 多模模式 -2665
+2022-08-26 11:18:47,015 - multi.py - line:67 - INFO -           Link Quality=67/70  Signal level=-43 dBm   -2665
+2022-08-26 11:18:47,017 - multi.py - line:70 - INFO - 连接质量：0.957    信号强度：-43 -2665
+2022-08-26 11:18:47,518 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2665
+2022-08-26 11:18:48,020 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2665
+2022-08-26 11:18:48,572 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:18:54,440 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -2665
+2022-08-26 11:18:54,443 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:18:54,444 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2665
+2022-08-26 11:18:54,445 - multi.py - line:237 - INFO - 多模模式 -2665
+2022-08-26 11:18:54,463 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -2665
+2022-08-26 11:18:54,465 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -2665
+2022-08-26 11:18:54,966 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2665
+2022-08-26 11:18:55,468 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2665
+2022-08-26 11:18:56,028 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:19:02,237 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -2665
+2022-08-26 11:19:02,240 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:19:02,241 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2665
+2022-08-26 11:19:02,241 - multi.py - line:237 - INFO - 多模模式 -2665
+2022-08-26 11:19:02,257 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -2665
+2022-08-26 11:19:02,258 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -2665
+2022-08-26 11:19:02,760 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2665
+2022-08-26 11:19:03,261 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2665
+2022-08-26 11:19:03,809 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:19:08,922 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -2665
+2022-08-26 11:19:08,925 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2665
+2022-08-26 11:19:08,926 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2665
+2022-08-26 11:19:08,926 - multi.py - line:237 - INFO - 多模模式 -2665
+2022-08-26 11:19:08,943 - multi.py - line:67 - INFO -           Link Quality=64/70  Signal level=-46 dBm   -2665
+2022-08-26 11:19:08,944 - multi.py - line:70 - INFO - 连接质量：0.914    信号强度：-46 -2665
+2022-08-26 11:19:09,445 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2665
+2022-08-26 11:19:09,946 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2665
+2022-08-26 11:19:10,500 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2665
+2022-08-26 11:20:26,641 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2814
+2022-08-26 11:20:26,643 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2814
+2022-08-26 11:20:26,643 - multi.py - line:222 - INFO - 模块目前状态为：3 -2814
+2022-08-26 11:20:26,655 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-34 dBm   -2814
+2022-08-26 11:20:26,656 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-34 -2814
+2022-08-26 11:20:26,657 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -2814
+2022-08-26 11:20:26,659 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -2814
+2022-08-26 11:20:26,660 - multi.py - line:227 - INFO - 启动完成 -2814
+2022-08-26 11:20:26,660 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2814
+2022-08-26 11:20:26,661 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2814
+2022-08-26 11:20:26,661 - multi.py - line:237 - INFO - 多模模式 -2814
+2022-08-26 11:20:26,670 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-34 dBm   -2814
+2022-08-26 11:20:26,671 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-34 -2814
+2022-08-26 11:20:27,172 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2814
+2022-08-26 11:20:27,673 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2814
+2022-08-26 11:20:28,227 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2814
+2022-08-26 11:20:33,529 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -2814
+2022-08-26 11:20:33,530 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2814
+2022-08-26 11:20:33,531 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2814
+2022-08-26 11:20:33,531 - multi.py - line:237 - INFO - 多模模式 -2814
+2022-08-26 11:20:33,540 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -2814
+2022-08-26 11:20:33,541 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -2814
+2022-08-26 11:20:34,042 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2814
+2022-08-26 11:20:34,544 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2814
+2022-08-26 11:20:35,101 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2814
+2022-08-26 11:20:40,431 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -2814
+2022-08-26 11:20:40,433 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2814
+2022-08-26 11:20:40,435 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2814
+2022-08-26 11:20:40,435 - multi.py - line:237 - INFO - 多模模式 -2814
+2022-08-26 11:20:40,459 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -2814
+2022-08-26 11:20:40,460 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -2814
+2022-08-26 11:20:40,962 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2814
+2022-08-26 11:20:41,464 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2814
+2022-08-26 11:20:42,020 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2814
+2022-08-26 11:21:01,063 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:01,064 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:01,065 - multi.py - line:222 - INFO - 模块目前状态为：3 -2889
+2022-08-26 11:21:01,077 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -2889
+2022-08-26 11:21:01,078 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -2889
+2022-08-26 11:21:01,079 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -2889
+2022-08-26 11:21:01,082 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -2889
+2022-08-26 11:21:01,083 - multi.py - line:227 - INFO - 启动完成 -2889
+2022-08-26 11:21:01,083 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:01,084 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:01,084 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:01,094 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -2889
+2022-08-26 11:21:01,094 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -2889
+2022-08-26 11:21:01,595 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:02,096 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:02,646 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:05,697 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:21:05,700 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:05,701 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:05,701 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:05,731 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -2889
+2022-08-26 11:21:05,732 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -2889
+2022-08-26 11:21:06,234 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:06,735 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:07,289 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:10,343 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:21:10,345 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:10,346 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:10,347 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:10,368 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -2889
+2022-08-26 11:21:10,369 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -2889
+2022-08-26 11:21:10,871 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:11,373 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:11,934 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:14,984 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:21:14,987 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:14,989 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:14,990 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:15,010 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-34 dBm   -2889
+2022-08-26 11:21:15,012 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-34 -2889
+2022-08-26 11:21:15,515 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:16,016 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:16,568 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:19,617 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:21:19,619 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:19,621 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:19,621 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:19,641 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -2889
+2022-08-26 11:21:19,643 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -2889
+2022-08-26 11:21:20,145 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:20,646 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:21,200 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:24,252 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:21:24,254 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:24,256 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:24,256 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:24,275 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -2889
+2022-08-26 11:21:24,276 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -2889
+2022-08-26 11:21:24,778 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:25,280 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:25,839 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:28,893 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:21:28,895 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:28,896 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:28,897 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:28,916 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -2889
+2022-08-26 11:21:28,918 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -2889
+2022-08-26 11:21:29,419 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:29,921 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:30,473 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:33,527 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:21:33,529 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:33,531 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:33,531 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:33,553 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -2889
+2022-08-26 11:21:33,554 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -2889
+2022-08-26 11:21:34,056 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:34,557 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:35,105 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:38,159 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:21:38,161 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:38,162 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:38,163 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:38,182 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -2889
+2022-08-26 11:21:38,183 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -2889
+2022-08-26 11:21:38,684 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:39,194 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:39,751 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:42,804 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:21:42,806 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:42,807 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:42,808 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:42,828 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -2889
+2022-08-26 11:21:42,829 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -2889
+2022-08-26 11:21:43,331 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:43,832 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:44,398 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:47,450 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:21:47,453 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:47,454 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:47,454 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:47,474 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -2889
+2022-08-26 11:21:47,475 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -2889
+2022-08-26 11:21:47,976 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'NR5G-SA', ',46001,', 'NR N78', ",627264\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:48,478 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 8,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:49,035 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:52,092 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:21:52,096 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:52,098 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:52,099 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:52,119 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -2889
+2022-08-26 11:21:52,121 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -2889
+2022-08-26 11:21:52,624 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 0', ",0\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:53,126 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:53,687 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:56,738 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:21:56,741 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:21:56,742 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:21:56,743 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:21:56,762 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -2889
+2022-08-26 11:21:56,763 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -2889
+2022-08-26 11:21:57,265 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 0', ",0\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:21:57,767 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:21:58,320 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:01,375 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:22:01,378 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:01,379 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:22:01,379 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:22:01,399 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -2889
+2022-08-26 11:22:01,400 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -2889
+2022-08-26 11:22:01,902 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 0', ",0\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:22:02,403 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:22:02,961 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:06,014 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:22:06,017 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:06,018 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:22:06,018 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:22:06,039 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -2889
+2022-08-26 11:22:06,040 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -2889
+2022-08-26 11:22:06,542 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 0', ",0\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:22:07,043 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:22:07,596 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:10,650 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:22:10,652 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:10,654 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:22:10,654 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:22:10,674 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -2889
+2022-08-26 11:22:10,675 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -2889
+2022-08-26 11:22:11,177 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 0', ",0\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:22:11,678 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:22:12,243 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:15,295 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:22:15,298 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:15,299 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:22:15,300 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:22:15,321 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -2889
+2022-08-26 11:22:15,323 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -2889
+2022-08-26 11:22:15,825 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 0', ",0\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:22:16,326 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:22:16,881 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:19,935 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:22:19,937 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:19,938 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:22:19,939 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:22:19,959 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -2889
+2022-08-26 11:22:19,960 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -2889
+2022-08-26 11:22:20,462 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 0', ",0\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:22:20,963 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:22:21,519 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:24,568 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:22:24,571 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:24,572 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:22:24,573 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:22:24,592 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -2889
+2022-08-26 11:22:24,594 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -2889
+2022-08-26 11:22:25,096 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 0', ",0\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:22:25,597 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:22:26,152 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:29,202 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:22:29,205 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:29,206 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:22:29,207 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:22:29,226 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -2889
+2022-08-26 11:22:29,228 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -2889
+2022-08-26 11:22:29,729 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 0', ",0\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:22:30,231 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:22:30,783 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:33,836 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:22:33,839 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:33,841 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:22:33,842 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:22:33,870 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -2889
+2022-08-26 11:22:33,872 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -2889
+2022-08-26 11:22:34,374 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 0', ",0\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:22:34,875 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:22:35,423 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:38,476 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:22:38,479 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:22:38,480 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:22:38,480 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:22:38,499 - multi.py - line:67 - INFO -           Link Quality=66/70  Signal level=-44 dBm   -2889
+2022-08-26 11:22:38,501 - multi.py - line:70 - INFO - 连接质量：0.943    信号强度：-44 -2889
+2022-08-26 11:22:39,003 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 0', ",0\\r\\n\\r\\nOK\\r\\n'"] -2889
+2022-08-26 11:22:39,504 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:22:40,057 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:23:05,648 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -2889
+2022-08-26 11:23:05,650 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:23:05,651 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:23:05,652 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:23:05,669 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -2889
+2022-08-26 11:23:05,670 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -2889
+2022-08-26 11:23:05,676 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -2889
+2022-08-26 11:23:06,178 - multi.py - line:84 - INFO - b'\r\n\r\nOK\r\nat+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:23:06,731 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:23:06,783 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:23:06,787 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:23:06,788 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:23:06,789 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:23:06,811 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -2889
+2022-08-26 11:23:06,812 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -2889
+2022-08-26 11:23:07,314 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -2889
+2022-08-26 11:23:07,815 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:23:08,372 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:23:11,426 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:23:11,429 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:23:11,430 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:23:11,430 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:23:11,449 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -2889
+2022-08-26 11:23:11,451 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -2889
+2022-08-26 11:23:11,953 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -2889
+2022-08-26 11:23:12,454 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:23:13,003 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:23:16,057 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:23:16,059 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:23:16,061 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -2889
+2022-08-26 11:23:16,061 - multi.py - line:237 - INFO - 多模模式 -2889
+2022-08-26 11:23:16,081 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -2889
+2022-08-26 11:23:16,083 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -2889
+2022-08-26 11:23:16,585 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -2889
+2022-08-26 11:23:17,086 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -2889
+2022-08-26 11:23:17,640 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -2889
+2022-08-26 11:23:20,694 - multi.py - line:164 - ERROR - 视频传输失败 -2889
+2022-08-26 11:23:20,697 - multi.py - line:199 - ERROR - 移动网络无信号，正在切换 -2889
+2022-08-26 11:23:21,199 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -2889
+2022-08-26 11:23:21,200 - multi.py - line:144 - INFO - 网络已切换，正在重启 -2889
+2022-08-26 11:23:21,200 - multi.py - line:149 - ERROR - 获取网络信息错误，检查串口是否冲突？ -2889
+2022-08-26 11:24:20,435 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3373
+2022-08-26 11:24:20,436 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3373
+2022-08-26 11:24:20,437 - multi.py - line:222 - INFO - 模块目前状态为：3 -3373
+2022-08-26 11:24:20,446 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -3373
+2022-08-26 11:24:20,447 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -3373
+2022-08-26 11:24:20,449 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -3373
+2022-08-26 11:24:20,449 - multi.py - line:227 - INFO - 启动完成 -3373
+2022-08-26 11:24:20,450 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3373
+2022-08-26 11:24:20,451 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3373
+2022-08-26 11:24:20,451 - multi.py - line:237 - INFO - 多模模式 -3373
+2022-08-26 11:24:20,460 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -3373
+2022-08-26 11:24:20,461 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -3373
+2022-08-26 11:24:20,962 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -3373
+2022-08-26 11:24:21,463 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -3373
+2022-08-26 11:24:22,019 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3373
+2022-08-26 11:24:22,071 - multi.py - line:164 - ERROR - 视频传输失败 -3373
+2022-08-26 11:24:22,073 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3373
+2022-08-26 11:24:22,075 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3373
+2022-08-26 11:24:22,075 - multi.py - line:237 - INFO - 多模模式 -3373
+2022-08-26 11:24:22,090 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -3373
+2022-08-26 11:24:22,091 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -3373
+2022-08-26 11:24:22,593 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -3373
+2022-08-26 11:24:23,094 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -3373
+2022-08-26 11:24:23,647 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3373
+2022-08-26 11:24:23,699 - multi.py - line:164 - ERROR - 视频传输失败 -3373
+2022-08-26 11:24:23,702 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3373
+2022-08-26 11:24:23,704 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3373
+2022-08-26 11:24:23,704 - multi.py - line:237 - INFO - 多模模式 -3373
+2022-08-26 11:24:23,722 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -3373
+2022-08-26 11:24:23,722 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -3373
+2022-08-26 11:24:24,224 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -3373
+2022-08-26 11:24:24,725 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -3373
+2022-08-26 11:24:25,278 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3373
+2022-08-26 11:24:25,330 - multi.py - line:164 - ERROR - 视频传输失败 -3373
+2022-08-26 11:24:25,334 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3373
+2022-08-26 11:24:25,335 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3373
+2022-08-26 11:24:25,336 - multi.py - line:237 - INFO - 多模模式 -3373
+2022-08-26 11:24:25,356 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -3373
+2022-08-26 11:24:25,357 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -3373
+2022-08-26 11:24:25,859 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -3373
+2022-08-26 11:24:26,360 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -3373
+2022-08-26 11:24:26,907 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3373
+2022-08-26 11:24:26,964 - multi.py - line:164 - ERROR - 视频传输失败 -3373
+2022-08-26 11:24:26,965 - multi.py - line:199 - ERROR - 移动网络无信号，正在切换 -3373
+2022-08-26 11:24:27,466 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -3373
+2022-08-26 11:24:27,468 - multi.py - line:144 - INFO - 网络已切换，正在重启 -3373
+2022-08-26 11:24:27,469 - multi.py - line:149 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3373
+2022-08-26 11:24:44,867 - multi.py - line:112 - ERROR - 没有usb0 -3510
+2022-08-26 11:24:44,869 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3510
+2022-08-26 11:24:44,869 - multi.py - line:222 - INFO - 模块目前状态为：2 -3510
+2022-08-26 11:24:44,882 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -3510
+2022-08-26 11:24:44,883 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -3510
+2022-08-26 11:24:44,885 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -3510
+2022-08-26 11:24:44,886 - multi.py - line:227 - INFO - 启动完成 -3510
+2022-08-26 11:24:44,886 - multi.py - line:112 - ERROR - 没有usb0 -3510
+2022-08-26 11:24:44,887 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3510
+2022-08-26 11:24:44,888 - multi.py - line:273 - INFO - wifi传输模式 -3510
+2022-08-26 11:24:44,897 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -3510
+2022-08-26 11:24:44,898 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -3510
+2022-08-26 11:24:44,899 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3510
+2022-08-26 11:25:40,931 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:25:40,932 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:25:40,932 - multi.py - line:222 - INFO - 模块目前状态为：3 -3616
+2022-08-26 11:25:40,941 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -3616
+2022-08-26 11:25:40,942 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -3616
+2022-08-26 11:25:40,945 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -3616
+2022-08-26 11:25:40,946 - multi.py - line:227 - INFO - 启动完成 -3616
+2022-08-26 11:25:40,947 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:25:40,948 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:25:40,948 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:25:40,958 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -3616
+2022-08-26 11:25:40,958 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -3616
+2022-08-26 11:25:41,459 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -3616
+2022-08-26 11:25:41,960 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -3616
+2022-08-26 11:25:42,512 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:25:42,566 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:25:42,569 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:25:42,571 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:25:42,571 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:25:42,586 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -3616
+2022-08-26 11:25:42,587 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -3616
+2022-08-26 11:25:43,088 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -3616
+2022-08-26 11:25:43,590 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -3616
+2022-08-26 11:25:44,116 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:25:44,168 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:25:44,171 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:25:44,173 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:25:44,174 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:25:44,189 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -3616
+2022-08-26 11:25:44,190 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -3616
+2022-08-26 11:25:44,692 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -3616
+2022-08-26 11:25:45,194 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -3616
+2022-08-26 11:25:45,754 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:25:45,806 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:25:45,811 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:25:45,812 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:25:45,813 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:25:45,833 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -3616
+2022-08-26 11:25:45,834 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -3616
+2022-08-26 11:25:46,336 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -3616
+2022-08-26 11:25:46,837 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -3616
+2022-08-26 11:25:47,391 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:25:50,444 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:25:50,445 - multi.py - line:199 - ERROR - 移动网络无信号，正在切换 -3616
+2022-08-26 11:25:50,947 - multi.py - line:125 - INFO - ["b'\\r\\n+QNETDEVSTATUS: 1,1,", 'IPV4V6', ',0\\r\\nat+qnwinfo\\r\\n+QNWINFO: ', 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -3616
+2022-08-26 11:25:50,947 - multi.py - line:144 - INFO - 网络已切换，正在重启 -3616
+2022-08-26 11:25:50,947 - multi.py - line:149 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:35,993 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:35,994 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:35,995 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:36,014 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -3616
+2022-08-26 11:26:36,015 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -3616
+2022-08-26 11:26:36,016 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:36,017 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:36,573 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:36,627 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:36,633 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:36,635 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:36,635 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:36,655 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -3616
+2022-08-26 11:26:36,656 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -3616
+2022-08-26 11:26:36,657 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:36,657 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:37,190 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:37,214 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:37,215 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:37,216 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:37,216 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:37,225 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -3616
+2022-08-26 11:26:37,226 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -3616
+2022-08-26 11:26:37,226 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:37,227 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:37,752 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:37,806 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:37,809 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:37,810 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:37,811 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:37,830 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -3616
+2022-08-26 11:26:37,831 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -3616
+2022-08-26 11:26:37,831 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:37,832 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:38,370 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:41,421 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:41,423 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:41,424 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:41,425 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:41,444 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -3616
+2022-08-26 11:26:41,445 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -3616
+2022-08-26 11:26:41,446 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:41,447 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:42,007 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:42,031 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:42,033 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:42,034 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:42,035 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:42,044 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -3616
+2022-08-26 11:26:42,045 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -3616
+2022-08-26 11:26:42,046 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:42,046 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:42,574 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:42,632 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:42,635 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:42,636 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:42,637 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:42,660 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -3616
+2022-08-26 11:26:42,662 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -3616
+2022-08-26 11:26:42,663 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:42,663 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:43,196 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:46,226 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:46,228 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:46,229 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:46,230 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:46,248 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -3616
+2022-08-26 11:26:46,249 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -3616
+2022-08-26 11:26:46,250 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:46,251 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:46,803 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:46,855 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:46,858 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:46,859 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:46,860 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:46,874 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -3616
+2022-08-26 11:26:46,875 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -3616
+2022-08-26 11:26:46,876 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:46,876 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:47,423 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:50,489 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:50,493 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:50,494 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:50,494 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:50,513 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -3616
+2022-08-26 11:26:50,514 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -3616
+2022-08-26 11:26:50,515 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:50,516 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:51,069 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:51,126 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:51,128 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:51,130 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:51,130 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:51,153 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -3616
+2022-08-26 11:26:51,154 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -3616
+2022-08-26 11:26:51,155 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:51,156 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:51,689 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:51,713 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:51,715 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:51,716 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:51,717 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:51,726 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -3616
+2022-08-26 11:26:51,727 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -3616
+2022-08-26 11:26:51,727 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:51,727 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:52,260 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:55,310 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:55,311 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:55,312 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:55,312 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:55,323 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -3616
+2022-08-26 11:26:55,323 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -3616
+2022-08-26 11:26:55,324 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:55,324 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:55,850 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:55,873 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:55,875 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:55,876 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:55,876 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:55,886 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -3616
+2022-08-26 11:26:55,886 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -3616
+2022-08-26 11:26:55,887 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:55,887 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:26:56,416 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:59,468 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:26:59,471 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:26:59,472 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:26:59,472 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:26:59,491 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -3616
+2022-08-26 11:26:59,492 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -3616
+2022-08-26 11:26:59,493 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:26:59,494 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:27:00,044 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:00,092 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:27:00,095 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:00,096 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:27:00,096 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:27:00,114 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -3616
+2022-08-26 11:27:00,115 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -3616
+2022-08-26 11:27:00,116 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:27:00,117 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:27:00,666 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:00,690 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:27:00,691 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:00,692 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:27:00,693 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:27:00,702 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -3616
+2022-08-26 11:27:00,703 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -3616
+2022-08-26 11:27:00,704 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:27:00,704 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:27:01,230 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:04,278 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:27:04,281 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:04,283 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:27:04,284 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:27:04,306 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -3616
+2022-08-26 11:27:04,307 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -3616
+2022-08-26 11:27:04,309 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:27:04,310 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:27:04,868 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:07,897 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:27:07,899 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:07,900 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:27:07,901 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:27:07,919 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -3616
+2022-08-26 11:27:07,920 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -3616
+2022-08-26 11:27:07,922 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:27:07,922 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:27:08,474 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:08,528 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:27:08,530 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:08,531 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:27:08,531 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:27:08,546 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -3616
+2022-08-26 11:27:08,546 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -3616
+2022-08-26 11:27:08,547 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:27:08,547 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:27:09,086 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:12,139 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:27:12,141 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:12,142 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:27:12,143 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:27:12,164 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -3616
+2022-08-26 11:27:12,165 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -3616
+2022-08-26 11:27:12,166 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:27:12,167 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:27:12,725 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:15,756 - multi.py - line:164 - ERROR - 视频传输失败 -3616
+2022-08-26 11:27:15,758 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:15,759 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:27:15,760 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:27:15,781 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -3616
+2022-08-26 11:27:15,782 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -3616
+2022-08-26 11:27:15,784 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:27:15,785 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:27:16,337 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:29,245 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -3616
+2022-08-26 11:27:29,248 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:29,249 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:27:29,249 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:27:29,273 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -3616
+2022-08-26 11:27:29,274 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -3616
+2022-08-26 11:27:29,276 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:27:29,276 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:27:29,832 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:41,371 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -3616
+2022-08-26 11:27:41,374 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:41,375 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:27:41,375 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:27:41,396 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -3616
+2022-08-26 11:27:41,397 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -3616
+2022-08-26 11:27:41,398 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:27:41,398 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:27:41,947 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:52,359 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -3616
+2022-08-26 11:27:52,361 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:27:52,362 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:27:52,363 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:27:52,383 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -3616
+2022-08-26 11:27:52,384 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -3616
+2022-08-26 11:27:52,385 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:27:52,386 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:27:52,929 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:28:03,622 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -3616
+2022-08-26 11:28:03,625 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:28:03,627 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:28:03,627 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:28:03,646 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -3616
+2022-08-26 11:28:03,647 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -3616
+2022-08-26 11:28:03,648 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:28:03,649 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:28:04,191 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:28:15,916 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -3616
+2022-08-26 11:28:15,919 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:28:15,920 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:28:15,921 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:28:15,942 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -3616
+2022-08-26 11:28:15,943 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -3616
+2022-08-26 11:28:15,944 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:28:15,945 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:28:16,499 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:28:27,320 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -3616
+2022-08-26 11:28:27,322 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:28:27,324 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -3616
+2022-08-26 11:28:27,325 - multi.py - line:237 - INFO - 多模模式 -3616
+2022-08-26 11:28:27,349 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -3616
+2022-08-26 11:28:27,350 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -3616
+2022-08-26 11:28:27,351 - multi.py - line:132 - ERROR - 获取网络信息错误，检查串口是否冲突？ -3616
+2022-08-26 11:28:27,352 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -3616
+2022-08-26 11:28:27,893 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -3616
+2022-08-26 11:34:09,543 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:34:09,545 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:34:09,545 - multi.py - line:222 - INFO - 模块目前状态为：3 -4355
+2022-08-26 11:34:09,554 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -4355
+2022-08-26 11:34:09,555 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -4355
+2022-08-26 11:34:09,556 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:34:09,558 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:34:09,559 - multi.py - line:227 - INFO - 启动完成 -4355
+2022-08-26 11:34:09,559 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:34:09,562 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:34:09,563 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:34:09,564 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:34:09,564 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:34:09,574 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -4355
+2022-08-26 11:34:09,574 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -4355
+2022-08-26 11:34:10,076 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -4355
+2022-08-26 11:34:10,577 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:34:11,128 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:34:29,556 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:34:29,558 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:34:29,561 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:34:29,561 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:34:29,562 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:34:29,562 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:34:29,571 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -4355
+2022-08-26 11:34:29,572 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -4355
+2022-08-26 11:34:30,073 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:34:30,574 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:34:31,098 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:34:43,839 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:34:43,841 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:34:43,845 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:34:43,847 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:34:43,849 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:34:43,849 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:34:43,868 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -4355
+2022-08-26 11:34:43,869 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -4355
+2022-08-26 11:34:44,371 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:34:44,872 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:34:45,419 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:34:57,371 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:34:57,374 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:34:57,378 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:34:57,380 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:34:57,382 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:34:57,383 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:34:57,402 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -4355
+2022-08-26 11:34:57,404 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -4355
+2022-08-26 11:34:57,905 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:34:58,406 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:34:58,930 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:35:10,478 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:35:10,480 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:35:10,483 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:35:10,485 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:35:10,486 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:35:10,487 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:35:10,503 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -4355
+2022-08-26 11:35:10,504 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -4355
+2022-08-26 11:35:11,006 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:35:11,507 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:35:12,030 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:35:24,795 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:35:24,798 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:35:24,802 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:35:24,804 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:35:24,805 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:35:24,805 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:35:24,822 - multi.py - line:67 - INFO -           Link Quality=68/70  Signal level=-42 dBm   -4355
+2022-08-26 11:35:24,823 - multi.py - line:70 - INFO - 连接质量：0.971    信号强度：-42 -4355
+2022-08-26 11:35:25,324 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:35:25,826 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:35:26,376 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:35:39,727 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:35:39,729 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:35:39,734 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:35:39,735 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:35:39,737 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:35:39,738 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:35:39,756 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -4355
+2022-08-26 11:35:39,757 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -4355
+2022-08-26 11:35:40,259 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:35:40,761 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:35:41,315 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:35:54,014 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:35:54,017 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:35:54,022 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:35:54,024 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:35:54,025 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:35:54,026 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:35:54,044 - multi.py - line:67 - INFO -           Link Quality=68/70  Signal level=-42 dBm   -4355
+2022-08-26 11:35:54,045 - multi.py - line:70 - INFO - 连接质量：0.971    信号强度：-42 -4355
+2022-08-26 11:35:54,547 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:35:55,048 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:35:55,572 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:36:07,151 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:36:07,153 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:36:07,156 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:36:07,157 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:36:07,158 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:36:07,159 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:36:07,174 - multi.py - line:67 - INFO -           Link Quality=67/70  Signal level=-43 dBm   -4355
+2022-08-26 11:36:07,175 - multi.py - line:70 - INFO - 连接质量：0.957    信号强度：-43 -4355
+2022-08-26 11:36:07,677 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:36:08,178 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:36:08,730 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:36:19,668 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:36:19,671 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:36:19,676 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:36:19,678 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:36:19,679 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:36:19,680 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:36:19,698 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -4355
+2022-08-26 11:36:19,700 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -4355
+2022-08-26 11:36:20,202 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:36:20,704 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:36:21,256 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:36:41,328 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:36:41,331 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:36:41,336 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:36:41,338 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:36:41,340 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:36:41,341 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:36:41,361 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -4355
+2022-08-26 11:36:41,362 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -4355
+2022-08-26 11:36:41,865 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:36:42,366 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 27,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:36:42,917 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:36:53,772 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:36:53,774 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:36:53,779 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:36:53,781 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:36:53,783 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:36:53,783 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:36:53,802 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -4355
+2022-08-26 11:36:53,803 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -4355
+2022-08-26 11:36:54,305 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:36:54,806 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:36:55,352 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:37:06,369 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:37:06,371 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:37:06,376 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:37:06,378 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:37:06,379 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:37:06,380 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:37:06,398 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -4355
+2022-08-26 11:37:06,399 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -4355
+2022-08-26 11:37:06,901 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:37:07,402 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:37:07,949 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:37:18,895 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -4355
+2022-08-26 11:37:18,898 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -4355
+2022-08-26 11:37:18,903 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -4355
+2022-08-26 11:37:18,905 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 11:37:18,906 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -4355
+2022-08-26 11:37:18,907 - multi.py - line:244 - INFO - 多模模式 -4355
+2022-08-26 11:37:18,925 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -4355
+2022-08-26 11:37:18,927 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -4355
+2022-08-26 11:37:19,429 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1500\\r\\n\\r\\nOK\\r\\n'"] -4355
+2022-08-26 11:37:19,930 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 21,99\r\n\r\nOK\r\n' -4355
+2022-08-26 11:37:20,480 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -4355
+2022-08-26 14:21:34,418 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:21:34,419 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5086
+2022-08-26 14:21:34,420 - multi.py - line:222 - INFO - 模块目前状态为：3 -5086
+2022-08-26 14:21:34,429 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -5086
+2022-08-26 14:21:34,430 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -5086
+2022-08-26 14:21:34,430 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -5086
+2022-08-26 14:21:34,432 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -5086
+2022-08-26 14:21:34,433 - multi.py - line:227 - INFO - 启动完成 -5086
+2022-08-26 14:21:34,433 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -5086
+2022-08-26 14:21:34,437 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -5086
+2022-08-26 14:21:34,437 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:21:34,438 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5086
+2022-08-26 14:21:34,438 - multi.py - line:244 - INFO - 多模模式 -5086
+2022-08-26 14:21:34,447 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -5086
+2022-08-26 14:21:34,448 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -5086
+2022-08-26 14:21:34,949 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5086
+2022-08-26 14:21:35,450 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5086
+2022-08-26 14:21:36,002 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:21:36,043 - multi.py - line:164 - ERROR - 视频传输失败 -5086
+2022-08-26 14:21:36,045 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -5086
+2022-08-26 14:21:36,047 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -5086
+2022-08-26 14:21:36,049 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:21:36,049 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5086
+2022-08-26 14:21:36,050 - multi.py - line:244 - INFO - 多模模式 -5086
+2022-08-26 14:21:36,064 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -5086
+2022-08-26 14:21:36,065 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -5086
+2022-08-26 14:21:36,567 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5086
+2022-08-26 14:21:37,068 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5086
+2022-08-26 14:21:37,621 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:21:37,673 - multi.py - line:164 - ERROR - 视频传输失败 -5086
+2022-08-26 14:21:37,678 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -5086
+2022-08-26 14:21:37,682 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -5086
+2022-08-26 14:21:37,684 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:21:37,686 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5086
+2022-08-26 14:21:37,686 - multi.py - line:244 - INFO - 多模模式 -5086
+2022-08-26 14:21:37,701 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -5086
+2022-08-26 14:21:37,702 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -5086
+2022-08-26 14:21:38,203 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5086
+2022-08-26 14:21:38,704 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5086
+2022-08-26 14:21:39,260 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:21:39,311 - multi.py - line:164 - ERROR - 视频传输失败 -5086
+2022-08-26 14:21:39,313 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -5086
+2022-08-26 14:21:39,316 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -5086
+2022-08-26 14:21:39,318 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:21:39,319 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5086
+2022-08-26 14:21:39,319 - multi.py - line:244 - INFO - 多模模式 -5086
+2022-08-26 14:21:39,334 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -5086
+2022-08-26 14:21:39,335 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -5086
+2022-08-26 14:21:39,836 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5086
+2022-08-26 14:21:40,338 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5086
+2022-08-26 14:21:40,899 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:21:43,952 - multi.py - line:164 - ERROR - 视频传输失败 -5086
+2022-08-26 14:21:43,954 - multi.py - line:199 - ERROR - 移动网络无信号，正在切换 -5086
+2022-08-26 14:21:44,456 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5086
+2022-08-26 14:21:44,456 - multi.py - line:144 - INFO - 网络已切换，正在重启 -5086
+2022-08-26 14:21:44,457 - multi.py - line:149 - ERROR - 获取网络信息错误，检查串口是否冲突？ -5086
+2022-08-26 14:22:29,513 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5086
+2022-08-26 14:22:29,514 - multi.py - line:236 - INFO - 当前使用ttyusb2 -5086
+2022-08-26 14:22:29,514 - multi.py - line:239 - INFO - 当前使用ttyusb3 -5086
+2022-08-26 14:22:29,516 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:22:29,517 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5086
+2022-08-26 14:22:29,517 - multi.py - line:244 - INFO - 多模模式 -5086
+2022-08-26 14:22:29,536 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -5086
+2022-08-26 14:22:29,537 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -5086
+2022-08-26 14:22:29,538 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5086
+2022-08-26 14:22:29,560 - multi.py - line:84 - INFO - b'\n+CME ERROR: 4\r\n+CME ERROR: 4\r\n+CME ERROR: 4\r\nat+qnwinfo\r\n+QNWINFO: Unknown Service\r\n\r\nOK\r\nat+csq\r\n+' -5086
+2022-08-26 14:22:29,561 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -5086
+2022-08-26 14:22:30,107 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:22:30,155 - multi.py - line:164 - ERROR - 视频传输失败 -5086
+2022-08-26 14:22:30,158 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5086
+2022-08-26 14:22:30,159 - multi.py - line:236 - INFO - 当前使用ttyusb2 -5086
+2022-08-26 14:22:30,159 - multi.py - line:239 - INFO - 当前使用ttyusb3 -5086
+2022-08-26 14:22:30,160 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:22:30,162 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5086
+2022-08-26 14:22:30,162 - multi.py - line:244 - INFO - 多模模式 -5086
+2022-08-26 14:22:30,178 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -5086
+2022-08-26 14:22:30,180 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -5086
+2022-08-26 14:22:30,681 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5086
+2022-08-26 14:22:31,184 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5086
+2022-08-26 14:22:31,735 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:22:31,783 - multi.py - line:164 - ERROR - 视频传输失败 -5086
+2022-08-26 14:22:31,787 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5086
+2022-08-26 14:22:31,787 - multi.py - line:236 - INFO - 当前使用ttyusb2 -5086
+2022-08-26 14:22:31,788 - multi.py - line:239 - INFO - 当前使用ttyusb3 -5086
+2022-08-26 14:22:31,789 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:22:31,791 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5086
+2022-08-26 14:22:31,792 - multi.py - line:244 - INFO - 多模模式 -5086
+2022-08-26 14:22:31,806 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-35 dBm   -5086
+2022-08-26 14:22:31,808 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-35 -5086
+2022-08-26 14:22:32,309 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5086
+2022-08-26 14:22:32,811 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5086
+2022-08-26 14:22:33,362 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:22:33,407 - multi.py - line:164 - ERROR - 视频传输失败 -5086
+2022-08-26 14:22:33,410 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5086
+2022-08-26 14:22:33,411 - multi.py - line:236 - INFO - 当前使用ttyusb2 -5086
+2022-08-26 14:22:33,412 - multi.py - line:239 - INFO - 当前使用ttyusb3 -5086
+2022-08-26 14:22:33,414 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:22:33,415 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5086
+2022-08-26 14:22:33,416 - multi.py - line:244 - INFO - 多模模式 -5086
+2022-08-26 14:22:33,432 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -5086
+2022-08-26 14:22:33,433 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -5086
+2022-08-26 14:22:33,934 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5086
+2022-08-26 14:22:34,436 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5086
+2022-08-26 14:22:34,994 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:22:35,043 - multi.py - line:164 - ERROR - 视频传输失败 -5086
+2022-08-26 14:22:35,047 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5086
+2022-08-26 14:22:35,047 - multi.py - line:236 - INFO - 当前使用ttyusb2 -5086
+2022-08-26 14:22:35,047 - multi.py - line:239 - INFO - 当前使用ttyusb3 -5086
+2022-08-26 14:22:35,049 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:22:35,049 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5086
+2022-08-26 14:22:35,050 - multi.py - line:244 - INFO - 多模模式 -5086
+2022-08-26 14:22:35,064 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-36 dBm   -5086
+2022-08-26 14:22:35,065 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-36 -5086
+2022-08-26 14:22:35,566 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5086
+2022-08-26 14:22:36,068 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5086
+2022-08-26 14:22:36,615 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5086
+2022-08-26 14:22:36,665 - multi.py - line:164 - ERROR - 视频传输失败 -5086
+2022-08-26 14:22:36,667 - multi.py - line:199 - ERROR - 移动网络无信号，正在切换 -5086
+2022-08-26 14:22:37,168 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5086
+2022-08-26 14:22:37,169 - multi.py - line:144 - INFO - 网络已切换，正在重启 -5086
+2022-08-26 14:22:37,170 - multi.py - line:149 - ERROR - 获取网络信息错误，检查串口是否冲突？ -5086
+2022-08-26 14:25:51,131 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:25:51,132 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5540
+2022-08-26 14:25:51,132 - multi.py - line:223 - INFO - 模块目前状态为：3 -5540
+2022-08-26 14:25:51,142 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -5540
+2022-08-26 14:25:51,142 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -5540
+2022-08-26 14:25:51,144 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5540
+2022-08-26 14:25:51,145 - multi.py - line:228 - INFO - 启动完成 -5540
+2022-08-26 14:25:51,146 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5540
+2022-08-26 14:25:51,146 - multi.py - line:237 - INFO - 当前使用ttyusb2 -5540
+2022-08-26 14:25:51,146 - multi.py - line:240 - INFO - 当前使用ttyusb3 -5540
+2022-08-26 14:25:51,147 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:25:51,148 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5540
+2022-08-26 14:25:51,148 - multi.py - line:245 - INFO - 多模模式 -5540
+2022-08-26 14:25:51,157 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -5540
+2022-08-26 14:25:51,158 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -5540
+2022-08-26 14:25:51,659 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5540
+2022-08-26 14:25:52,160 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5540
+2022-08-26 14:25:52,710 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:25:52,757 - multi.py - line:164 - ERROR - 视频传输失败 -5540
+2022-08-26 14:25:52,760 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5540
+2022-08-26 14:25:52,761 - multi.py - line:237 - INFO - 当前使用ttyusb2 -5540
+2022-08-26 14:25:52,761 - multi.py - line:240 - INFO - 当前使用ttyusb3 -5540
+2022-08-26 14:25:52,763 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:25:52,764 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5540
+2022-08-26 14:25:52,765 - multi.py - line:245 - INFO - 多模模式 -5540
+2022-08-26 14:25:52,781 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -5540
+2022-08-26 14:25:52,782 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -5540
+2022-08-26 14:25:53,284 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5540
+2022-08-26 14:25:53,786 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5540
+2022-08-26 14:25:54,338 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:25:54,390 - multi.py - line:164 - ERROR - 视频传输失败 -5540
+2022-08-26 14:25:54,394 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5540
+2022-08-26 14:25:54,395 - multi.py - line:237 - INFO - 当前使用ttyusb2 -5540
+2022-08-26 14:25:54,396 - multi.py - line:240 - INFO - 当前使用ttyusb3 -5540
+2022-08-26 14:25:54,397 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:25:54,398 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5540
+2022-08-26 14:25:54,399 - multi.py - line:245 - INFO - 多模模式 -5540
+2022-08-26 14:25:54,418 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -5540
+2022-08-26 14:25:54,420 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -5540
+2022-08-26 14:25:54,921 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5540
+2022-08-26 14:25:55,423 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5540
+2022-08-26 14:25:55,974 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:25:56,025 - multi.py - line:164 - ERROR - 视频传输失败 -5540
+2022-08-26 14:25:56,028 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5540
+2022-08-26 14:25:56,029 - multi.py - line:237 - INFO - 当前使用ttyusb2 -5540
+2022-08-26 14:25:56,030 - multi.py - line:240 - INFO - 当前使用ttyusb3 -5540
+2022-08-26 14:25:56,031 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:25:56,032 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5540
+2022-08-26 14:25:56,033 - multi.py - line:245 - INFO - 多模模式 -5540
+2022-08-26 14:25:56,049 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -5540
+2022-08-26 14:25:56,050 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -5540
+2022-08-26 14:25:56,551 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5540
+2022-08-26 14:25:57,053 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5540
+2022-08-26 14:25:57,609 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:25:57,659 - multi.py - line:164 - ERROR - 视频传输失败 -5540
+2022-08-26 14:25:57,660 - multi.py - line:200 - ERROR - 移动网络无信号，正在切换 -5540
+2022-08-26 14:25:58,161 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5540
+2022-08-26 14:25:58,162 - multi.py - line:144 - INFO - 网络已切换，正在重启 -5540
+2022-08-26 14:25:58,162 - multi.py - line:149 - ERROR - 获取网络信息错误，检查串口是否冲突？ -5540
+2022-08-26 14:26:43,215 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -5540
+2022-08-26 14:26:43,219 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -5540
+2022-08-26 14:26:43,221 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:26:43,222 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5540
+2022-08-26 14:26:43,223 - multi.py - line:245 - INFO - 多模模式 -5540
+2022-08-26 14:26:43,241 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -5540
+2022-08-26 14:26:43,242 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -5540
+2022-08-26 14:26:43,243 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5540
+2022-08-26 14:26:43,744 - multi.py - line:84 - INFO - b' ERROR: 4\r\nat+qnwinfo\r\n+CME ERROR: 4\r\nat+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5540
+2022-08-26 14:26:43,745 - multi.py - line:98 - ERROR - 获取信号错误，尝试重新获取 -5540
+2022-08-26 14:26:44,268 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:26:44,308 - multi.py - line:164 - ERROR - 视频传输失败 -5540
+2022-08-26 14:26:44,310 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -5540
+2022-08-26 14:26:44,313 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -5540
+2022-08-26 14:26:44,314 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:26:44,315 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5540
+2022-08-26 14:26:44,316 - multi.py - line:245 - INFO - 多模模式 -5540
+2022-08-26 14:26:44,330 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-40 dBm   -5540
+2022-08-26 14:26:44,331 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-40 -5540
+2022-08-26 14:26:44,832 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5540
+2022-08-26 14:26:45,334 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5540
+2022-08-26 14:26:45,887 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:26:45,936 - multi.py - line:164 - ERROR - 视频传输失败 -5540
+2022-08-26 14:26:45,939 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -5540
+2022-08-26 14:26:45,941 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -5540
+2022-08-26 14:26:45,943 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:26:45,944 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5540
+2022-08-26 14:26:45,944 - multi.py - line:245 - INFO - 多模模式 -5540
+2022-08-26 14:26:45,958 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -5540
+2022-08-26 14:26:45,959 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -5540
+2022-08-26 14:26:46,461 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5540
+2022-08-26 14:26:46,963 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5540
+2022-08-26 14:26:47,510 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:26:47,563 - multi.py - line:164 - ERROR - 视频传输失败 -5540
+2022-08-26 14:26:47,565 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -5540
+2022-08-26 14:26:47,570 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -5540
+2022-08-26 14:26:47,572 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:26:47,574 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5540
+2022-08-26 14:26:47,575 - multi.py - line:245 - INFO - 多模模式 -5540
+2022-08-26 14:26:47,594 - multi.py - line:67 - INFO -           Link Quality=69/70  Signal level=-41 dBm   -5540
+2022-08-26 14:26:47,596 - multi.py - line:70 - INFO - 连接质量：0.986    信号强度：-41 -5540
+2022-08-26 14:26:48,098 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5540
+2022-08-26 14:26:48,599 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5540
+2022-08-26 14:26:49,124 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:26:52,152 - multi.py - line:164 - ERROR - 视频传输失败 -5540
+2022-08-26 14:26:52,154 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -5540
+2022-08-26 14:26:52,159 - multi.py - line:47 - INFO - /dev/ttyUSB3已打开 -5540
+2022-08-26 14:26:52,160 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:26:52,161 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5540
+2022-08-26 14:26:52,162 - multi.py - line:245 - INFO - 多模模式 -5540
+2022-08-26 14:26:52,180 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -5540
+2022-08-26 14:26:52,181 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -5540
+2022-08-26 14:26:52,682 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5540
+2022-08-26 14:26:53,184 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5540
+2022-08-26 14:26:53,735 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5540
+2022-08-26 14:26:53,787 - multi.py - line:164 - ERROR - 视频传输失败 -5540
+2022-08-26 14:26:53,793 - multi.py - line:200 - ERROR - 移动网络无信号，正在切换 -5540
+2022-08-26 14:26:54,295 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5540
+2022-08-26 14:26:54,296 - multi.py - line:144 - INFO - 网络已切换，正在重启 -5540
+2022-08-26 14:26:54,297 - multi.py - line:149 - ERROR - 获取网络信息错误，检查串口是否冲突？ -5540
+2022-08-26 14:29:32,625 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5963
+2022-08-26 14:29:32,626 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5963
+2022-08-26 14:29:32,627 - multi.py - line:223 - INFO - 模块目前状态为：3 -5963
+2022-08-26 14:29:32,636 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -5963
+2022-08-26 14:29:32,637 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -5963
+2022-08-26 14:29:32,639 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5963
+2022-08-26 14:29:32,639 - multi.py - line:228 - INFO - 启动完成 -5963
+2022-08-26 14:29:32,640 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5963
+2022-08-26 14:29:32,641 - multi.py - line:237 - INFO - 当前使用ttyusb2 -5963
+2022-08-26 14:29:32,641 - multi.py - line:240 - INFO - 当前使用ttyusb3 -5963
+2022-08-26 14:29:32,642 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5963
+2022-08-26 14:29:32,643 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5963
+2022-08-26 14:29:32,643 - multi.py - line:245 - INFO - 多模模式 -5963
+2022-08-26 14:29:32,652 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -5963
+2022-08-26 14:29:32,653 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -5963
+2022-08-26 14:29:33,154 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5963
+2022-08-26 14:29:33,655 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5963
+2022-08-26 14:29:34,211 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5963
+2022-08-26 14:29:34,263 - multi.py - line:164 - ERROR - 视频传输失败 -5963
+2022-08-26 14:29:34,267 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5963
+2022-08-26 14:29:34,268 - multi.py - line:237 - INFO - 当前使用ttyusb2 -5963
+2022-08-26 14:29:34,268 - multi.py - line:240 - INFO - 当前使用ttyusb3 -5963
+2022-08-26 14:29:34,270 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5963
+2022-08-26 14:29:34,271 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5963
+2022-08-26 14:29:34,272 - multi.py - line:245 - INFO - 多模模式 -5963
+2022-08-26 14:29:34,290 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -5963
+2022-08-26 14:29:34,292 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -5963
+2022-08-26 14:29:34,793 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5963
+2022-08-26 14:29:35,295 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5963
+2022-08-26 14:29:35,842 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5963
+2022-08-26 14:29:35,893 - multi.py - line:164 - ERROR - 视频传输失败 -5963
+2022-08-26 14:29:35,897 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5963
+2022-08-26 14:29:35,898 - multi.py - line:237 - INFO - 当前使用ttyusb2 -5963
+2022-08-26 14:29:35,898 - multi.py - line:240 - INFO - 当前使用ttyusb3 -5963
+2022-08-26 14:29:35,900 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5963
+2022-08-26 14:29:35,901 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5963
+2022-08-26 14:29:35,901 - multi.py - line:245 - INFO - 多模模式 -5963
+2022-08-26 14:29:35,915 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -5963
+2022-08-26 14:29:35,916 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -5963
+2022-08-26 14:29:36,417 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5963
+2022-08-26 14:29:36,918 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5963
+2022-08-26 14:29:37,470 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5963
+2022-08-26 14:29:37,522 - multi.py - line:164 - ERROR - 视频传输失败 -5963
+2022-08-26 14:29:37,525 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -5963
+2022-08-26 14:29:37,525 - multi.py - line:237 - INFO - 当前使用ttyusb2 -5963
+2022-08-26 14:29:37,526 - multi.py - line:240 - INFO - 当前使用ttyusb3 -5963
+2022-08-26 14:29:37,527 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5963
+2022-08-26 14:29:37,527 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -5963
+2022-08-26 14:29:37,528 - multi.py - line:245 - INFO - 多模模式 -5963
+2022-08-26 14:29:37,541 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-37 dBm   -5963
+2022-08-26 14:29:37,542 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-37 -5963
+2022-08-26 14:29:38,043 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5963
+2022-08-26 14:29:38,545 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 99,99\r\n\r\nOK\r\n' -5963
+2022-08-26 14:29:39,099 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -5963
+2022-08-26 14:29:39,151 - multi.py - line:164 - ERROR - 视频传输失败 -5963
+2022-08-26 14:29:39,153 - multi.py - line:200 - ERROR - 移动网络无信号，正在切换 -5963
+2022-08-26 14:29:39,654 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -5963
+2022-08-26 14:29:39,655 - multi.py - line:144 - INFO - 网络已切换，正在重启 -5963
+2022-08-26 14:29:39,661 - multi.py - line:149 - ERROR - 获取网络信息错误，检查串口是否冲突？ -5963
+2022-08-26 14:29:47,248 - multi.py - line:112 - ERROR - 没有usb0 -6061
+2022-08-26 14:29:47,249 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -6061
+2022-08-26 14:29:47,249 - multi.py - line:223 - INFO - 模块目前状态为：2 -6061
+2022-08-26 14:29:47,265 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -6061
+2022-08-26 14:29:47,266 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -6061
+2022-08-26 14:29:47,267 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -6061
+2022-08-26 14:29:47,267 - multi.py - line:55 - ERROR - /dev/ttyUSB3错误，请检查输入的串口名称 -6061
+2022-08-26 14:29:47,268 - multi.py - line:228 - INFO - 启动完成 -6061
+2022-08-26 14:29:52,854 - multi.py - line:112 - ERROR - 没有usb0 -6064
+2022-08-26 14:29:52,855 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -6064
+2022-08-26 14:29:52,856 - multi.py - line:223 - INFO - 模块目前状态为：2 -6064
+2022-08-26 14:29:52,865 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -6064
+2022-08-26 14:29:52,866 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -6064
+2022-08-26 14:29:52,867 - multi.py - line:55 - ERROR - /dev/ttyUSB2错误，请检查输入的串口名称 -6064
+2022-08-26 14:29:52,867 - multi.py - line:55 - ERROR - /dev/ttyUSB3错误，请检查输入的串口名称 -6064
+2022-08-26 14:29:52,867 - multi.py - line:228 - INFO - 启动完成 -6064
+2022-08-26 14:31:23,595 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -6239
+2022-08-26 14:31:23,597 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -6239
+2022-08-26 14:31:23,597 - multi.py - line:223 - INFO - 模块目前状态为：3 -6239
+2022-08-26 14:31:23,607 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -6239
+2022-08-26 14:31:23,607 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -6239
+2022-08-26 14:31:23,609 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -6239
+2022-08-26 14:31:23,610 - multi.py - line:228 - INFO - 启动完成 -6239
+2022-08-26 14:31:23,611 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -6239
+2022-08-26 14:31:23,612 - multi.py - line:236 - INFO - 当前使用ttyusb2 -6239
+2022-08-26 14:31:23,613 - multi.py - line:239 - INFO - 当前使用ttyusb3 -6239
+2022-08-26 14:31:23,613 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -6239
+2022-08-26 14:31:23,614 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -6239
+2022-08-26 14:31:23,615 - multi.py - line:244 - INFO - 多模模式 -6239
+2022-08-26 14:31:23,624 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -6239
+2022-08-26 14:31:23,625 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -6239
+2022-08-26 14:31:24,126 - multi.py - line:127 - ERROR - 当前未成功获取网络状态 -6239
+2022-08-26 14:31:24,627 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 27,99\r\n\r\nOK\r\n' -6239
+2022-08-26 14:31:25,171 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -6239
+2022-08-26 14:31:32,383 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -6239
+2022-08-26 14:31:32,387 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -6239
+2022-08-26 14:31:32,388 - multi.py - line:236 - INFO - 当前使用ttyusb2 -6239
+2022-08-26 14:31:32,388 - multi.py - line:239 - INFO - 当前使用ttyusb3 -6239
+2022-08-26 14:31:32,390 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -6239
+2022-08-26 14:31:32,392 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -6239
+2022-08-26 14:31:32,392 - multi.py - line:244 - INFO - 多模模式 -6239
+2022-08-26 14:31:32,409 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-39 dBm   -6239
+2022-08-26 14:31:32,410 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-39 -6239
+2022-08-26 14:31:32,912 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1650\\r\\n\\r\\nOK\\r\\n'"] -6239
+2022-08-26 14:31:33,413 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 27,99\r\n\r\nOK\r\n' -6239
+2022-08-26 14:31:33,968 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -6239
+2022-08-26 14:31:42,601 - multi.py - line:167 - INFO - /home/pi/test1.mp4传输成功 -6239
+2022-08-26 14:31:42,605 - multi.py - line:47 - INFO - /dev/ttyUSB2已打开 -6239
+2022-08-26 14:31:42,605 - multi.py - line:236 - INFO - 当前使用ttyusb2 -6239
+2022-08-26 14:31:42,605 - multi.py - line:239 - INFO - 当前使用ttyusb3 -6239
+2022-08-26 14:31:42,607 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -6239
+2022-08-26 14:31:42,608 - multi.py - line:105 - INFO - wlan0的ip地址为192.168.0.105 -6239
+2022-08-26 14:31:42,609 - multi.py - line:244 - INFO - 多模模式 -6239
+2022-08-26 14:31:42,625 - multi.py - line:67 - INFO -           Link Quality=70/70  Signal level=-38 dBm   -6239
+2022-08-26 14:31:42,626 - multi.py - line:70 - INFO - 连接质量：1.0    信号强度：-38 -6239
+2022-08-26 14:31:43,128 - multi.py - line:125 - INFO - ["b'at+qnwinfo\\r\\n+QNWINFO: ", 'FDD LTE', ',46001,', 'LTE BAND 3', ",1650\\r\\n\\r\\nOK\\r\\n'"] -6239
+2022-08-26 14:31:43,630 - multi.py - line:84 - INFO - b'at+csq\r\n+CSQ: 27,99\r\n\r\nOK\r\n' -6239
+2022-08-26 14:31:44,180 - multi.py - line:105 - INFO - usb0的ip地址为192.168.42.2 -6239
